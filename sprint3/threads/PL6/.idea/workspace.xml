@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b7c68f3-25c6-4a4b-9d48-3203c2e458e5" name="Default Changelist" comment="Ex 01 Pequena correção&#10;Ex 02 ok&#10;Ex 03 ok">
+      <change beforePath="$PROJECT_DIR$/src/ex03/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex03/MyThread.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1u2uPv6lShVOXX383ovpETqUdXs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/ex03" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ex03" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.MySemaphore">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex01.Main" />
+      <module name="PL6" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MySemaphore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex03.MySemaphore" />
+      <module name="PL6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Semaphore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex02.Semaphore" />
+      <module name="PL6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MySemaphore" />
+        <item itemvalue="Application.Semaphore" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b7c68f3-25c6-4a4b-9d48-3203c2e458e5" name="Default Changelist" comment="" />
+      <created>1623875984647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623875984647</updated>
+      <workItem from="1623875986002" duration="13051000" />
+      <workItem from="1623972295991" duration="493000" />
+      <workItem from="1624046582828" duration="4912000" />
+      <workItem from="1624051670026" duration="13762000" />
+      <workItem from="1624650101378" duration="3146000" />
+      <workItem from="1627055677697" duration="663000" />
+      <workItem from="1633199247834" duration="24000" />
+    </task>
+    <task id="LOCAL-00001" summary="Ex 01 Pequena correção&#10;Ex 02 ok&#10;Ex 03 ok">
+      <created>1624064048468</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624064048468</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ex 01 Pequena correção&#10;Ex 02 ok&#10;Ex 03 ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex 01 Pequena correção&#10;Ex 02 ok&#10;Ex 03 ok" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="424" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623876032423">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="424" y="213" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1057/1920.23.1440.831@0.23.1920.1057" timestamp="1623876032423" />
+    <state x="726" y="168" key="#com.intellij.ide.util.MemberChooser" timestamp="1624059355403">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="726" y="168" key="#com.intellij.ide.util.MemberChooser/0.23.1920.1008/1920.23.1440.877@0.23.1920.1008" timestamp="1624059355403" />
+    <state x="181" y="113" key="DiffContextDialog" timestamp="1623887548915">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="181" y="113" key="DiffContextDialog/0.23.1920.1008/1920.23.1440.877@0.23.1920.1008" timestamp="1623887548915" />
+    <state width="1868" height="174" key="GridCell.Tab.0.bottom" timestamp="1624655278069">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state width="1868" height="174" key="GridCell.Tab.0.bottom/0.23.1920.1008/1920.23.1440.877@0.23.1920.1008" timestamp="1624655278069" />
+    <state width="766" height="13" key="GridCell.Tab.0.bottom/0.23.1920.1008/1920.23.1440.877@1920.23.1440.877" timestamp="1624106445966" />
+    <state width="1878" height="285" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.23.1440.831@0.23.1920.1057" timestamp="1623877072575" />
+    <state width="1878" height="268" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.23.1440.832@0.23.1920.1057" timestamp="1623879226706" />
+    <state width="1878" height="268" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.23.1440.833@0.23.1920.1057" timestamp="1623888011123" />
+    <state width="1870" height="253" key="GridCell.Tab.0.bottom/0.23.1920.1057/1920.23.1440.835@0.23.1920.1057" timestamp="1624051610565" />
+    <state width="1868" height="174" key="GridCell.Tab.0.center" timestamp="1624655278066">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state width="1868" height="174" key="GridCell.Tab.0.center/0.23.1920.1008/1920.23.1440.877@0.23.1920.1008" timestamp="1624655278066" />
+    <state width="766" height="13" key="GridCell.Tab.0.center/0.23.1920.1008/1920.23.1440.877@1920.23.1440.877" timestamp="1624106445966" />
+    <state width="1878" height="285" key="GridCell.Tab.0.center/0.23.1920.1057/1920.23.1440.831@0.23.1920.1057" timestamp="1623877072574" />
+    <state width="1878" height="268" key="GridCell.Tab.0.center/0.23.1920.1057/1920.23.1440.832@0.23.1920.1057" timestamp="1623879226705" />
+    <state width="1878" height="268" key="GridCell.Tab.0.center/0.23.1920.1057/1920.23.1440.833@0.23.1920.1057" timestamp="1623888011121" />
+    <state width="1870" height="253" key="GridCell.Tab.0.center/0.23.1920.1057/1920.23.1440.835@0.23.1920.1057" timestamp="1624051610564" />
+    <state width="1868" height="174" key="GridCell.Tab.0.left" timestamp="1624655278065">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state width="1868" height="174" key="GridCell.Tab.0.left/0.23.1920.1008/1920.23.1440.877@0.23.1920.1008" timestamp="1624655278065" />
+    <state width="766" height="13" key="GridCell.Tab.0.left/0.23.1920.1008/1920.23.1440.877@1920.23.1440.877" timestamp="1624106445965" />
+    <state width="1878" height="285" key="GridCell.Tab.0.left/0.23.1920.1057/1920.23.1440.831@0.23.1920.1057" timestamp="1623877072574" />
+    <state width="1878" height="268" key="GridCell.Tab.0.left/0.23.1920.1057/1920.23.1440.832@0.23.1920.1057" timestamp="1623879226704" />
+    <state width="1878" height="268" key="GridCell.Tab.0.left/0.23.1920.1057/1920.23.1440.833@0.23.1920.1057" timestamp="1623888011121" />
+    <state width="1870" height="253" key="GridCell.Tab.0.left/0.23.1920.1057/1920.23.1440.835@0.23.1920.1057" timestamp="1624051610564" />
+    <state width="1868" height="174" key="GridCell.Tab.0.right" timestamp="1624655278066">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state width="1868" height="174" key="GridCell.Tab.0.right/0.23.1920.1008/1920.23.1440.877@0.23.1920.1008" timestamp="1624655278066" />
+    <state width="766" height="13" key="GridCell.Tab.0.right/0.23.1920.1008/1920.23.1440.877@1920.23.1440.877" timestamp="1624106445966" />
+    <state width="1878" height="285" key="GridCell.Tab.0.right/0.23.1920.1057/1920.23.1440.831@0.23.1920.1057" timestamp="1623877072575" />
+    <state width="1878" height="268" key="GridCell.Tab.0.right/0.23.1920.1057/1920.23.1440.832@0.23.1920.1057" timestamp="1623879226705" />
+    <state width="1878" height="268" key="GridCell.Tab.0.right/0.23.1920.1057/1920.23.1440.833@0.23.1920.1057" timestamp="1623888011122" />
+    <state width="1870" height="253" key="GridCell.Tab.0.right/0.23.1920.1057/1920.23.1440.835@0.23.1920.1057" timestamp="1624051610564" />
+    <state x="579" y="76" key="SettingsEditor" timestamp="1624051597918">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="579" y="76" key="SettingsEditor/0.23.1920.1057/1920.23.1440.835@0.23.1920.1057" timestamp="1624051597918" />
+    <state width="625" height="500" key="SwitcherDM" timestamp="1624057698677">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state width="625" height="500" key="SwitcherDM/0.23.1920.1008/1920.23.1440.877@0.23.1920.1008" timestamp="1624057698677" />
+    <state x="460" y="199" key="Vcs.Push.Dialog.v2" timestamp="1624064073095">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="460" y="199" key="Vcs.Push.Dialog.v2/0.23.1920.1008/1920.23.1440.877@0.23.1920.1008" timestamp="1624064073095" />
+    <state x="626" y="308" key="git4idea.merge.GitPullDialog" timestamp="1623887558508">
+      <screen x="0" y="23" width="1920" height="1008" />
+    </state>
+    <state x="626" y="308" key="git4idea.merge.GitPullDialog/0.23.1920.1008/1920.23.1440.877@0.23.1920.1008" timestamp="1623887558508" />
+  </component>
+</project>

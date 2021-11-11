@@ -1,0 +1,29 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áÆœ8Ğ–Ñ‰¢/
+L
+java:S6212"/Declare this local variable with "var" instead.(ãÛ¡ã8Ö–Ñ‰¢/
+Q
+java:S6212"/Declare this local variable with "var" instead.(°şêµúÿÿÿÿ8×–Ñ‰¢/
+L
+java:S6212"/Declare this local variable with "var" instead.(êÔÜ8Ø–Ñ‰¢/
+Q
+java:S6212"/Declare this local variable with "var" instead.(™Û¥ªûÿÿÿÿ8Ø–Ñ‰¢/
+L
+java:S6212"/Declare this local variable with "var" instead.(ØÄó8Ù–Ñ‰¢/
+€
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(®ûºöÿÿÿÿÿ8Ù–Ñ‰¢/
+J	java:S108")Either remove or fill this block of code.(®ûºöÿÿÿÿÿ8Ú–Ñ‰¢/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¿À´û8Ú–Ñ‰¢/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ú×úûÿÿÿÿ8Ú–Ñ‰¢/
+Q
+java:S6212!"/Declare this local variable with "var" instead.(¾ÂØııÿÿÿÿ8Û–Ñ‰¢/
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(«éæ·ûÿÿÿÿ8Û–Ñ‰¢/
+Q
+java:S6212%"/Declare this local variable with "var" instead.(ì´øÀûÿÿÿÿ8Ü–Ñ‰¢/
+L
+java:S6212&"/Declare this local variable with "var" instead.(ñğ«Ï8Ü–Ñ‰¢/
+€
+java:S2142."^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(®ûºöÿÿÿÿÿ8İ–Ñ‰¢/
+J	java:S108.")Either remove or fill this block of code.(®ûºöÿÿÿÿÿ8Ş–Ñ‰¢/
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(åé—ò8Ş–Ñ‰¢/
+Z	java:S1063"9Replace this use of System.out or System.err by a logger.(‚ÔÉ¶øÿÿÿÿ8Ş–Ñ‰¢/

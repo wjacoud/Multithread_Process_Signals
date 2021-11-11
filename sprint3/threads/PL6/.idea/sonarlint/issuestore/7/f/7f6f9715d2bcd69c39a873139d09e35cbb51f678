@@ -1,0 +1,39 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Èš«ºÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÚŸûò
+t
+java:S2142&"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(¬Êã®
+D
+java:S6212"/Declare this local variable with "var" instead.(¼İÅf
+3
+java:S2119"Save and re-use this "Random".(¼İÅf
+J
+java:S6212"/Declare this local variable with "var" instead.(ÀßöÏıÿÿÿÿ
+l
+java:S3457 "Q%n should be used in place of \n to produce the platform-specific line separator.(ä÷¿íùÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(ä÷¿íùÿÿÿÿ
+N	java:S106'"9Replace this use of System.out or System.err by a logger.(›ç¨É
+M	java:S1060"9Replace this use of System.out or System.err by a logger.(êüã
+l
+java:S34571"Q%n should be used in place of \n to produce the platform-specific line separator.(Û¾ûÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(Û¾ûÿÿÿÿ
+l
+java:S34572"Q%n should be used in place of \n to produce the platform-specific line separator.(Âş­Œıÿÿÿÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(Âş­Œıÿÿÿÿ
+N
+java:S1197V"8Move the array designator from the variable to the type.(‘–µ¥
+J
+java:S6212Z"/Declare this local variable with "var" instead.(°şêµúÿÿÿÿ
+E
+java:S6212["/Declare this local variable with "var" instead.(Ç©ì¼
+J
+java:S6212\"/Declare this local variable with "var" instead.(œ¨½øÿÿÿÿ
+J
+java:S6212]"/Declare this local variable with "var" instead.(Å‚ÉÎúÿÿÿÿ
+J
+java:S6212a"/Declare this local variable with "var" instead.(™Û¥ªûÿÿÿÿ
+J
+java:S6212g"/Declare this local variable with "var" instead.(™Û¥ªûÿÿÿÿ
+l
+java:S3457k"Q%n should be used in place of \n to produce the platform-specific line separator.(Ö¨ëÄşÿÿÿÿ
+S	java:S106k"9Replace this use of System.out or System.err by a logger.(Ö¨ëÄşÿÿÿÿ

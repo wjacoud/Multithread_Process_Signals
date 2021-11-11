@@ -1,0 +1,11 @@
+
+“
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(ËËû—ùÿÿÿÿ8ç­Ñ‰¢/
+˜
+java:S1319"vThe type of the "orderQueue" object should be an interface such as "List" rather than the implementation "LinkedList".(ÜÓà´ùÿÿÿÿ8è­Ñ‰¢/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áÆŽœ8é­Ñ‰¢/
+6
+java:S1700"Rename field "orderQueue"(îãª¿8é­Ñ‰¢/
+v
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(íè í8ë­Ñ‰¢/

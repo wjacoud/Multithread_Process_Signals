@@ -1,0 +1,9 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(áÆŽœ
+—
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(“–ýþ
+_
+java:S2445"J"queue" is a method parameter, and should not be used for synchronization.(ûâÙG
+C	java:S108")Either remove or fill this block of code.(Æ¸Û‚øÿÿÿÿ
+I
+java:S1068".Remove this unused "orderQueue" private field.(‡Îàêÿÿÿÿÿ
